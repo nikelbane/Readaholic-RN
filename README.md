@@ -1,2 +1,2 @@
 # Readaholic-RN
-Readct native app using expo 
+React native app using expo 
